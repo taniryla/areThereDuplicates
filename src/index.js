@@ -5,7 +5,7 @@
 return true if there are duplicates
 
 // 2. What are the data inputs?
-a variable number of arguments or [...args]
+a variables number of arguments or [...args]
 
 // 3. Can you restate the problem in your own words?
 checks where there are duplicates in any of the arguments passed in
